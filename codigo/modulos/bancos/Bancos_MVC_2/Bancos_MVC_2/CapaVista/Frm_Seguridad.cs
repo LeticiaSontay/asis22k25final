@@ -424,5 +424,10 @@ namespace Capa_Vista_Bancos
             //Frm_PRUEBA_3 M = new Frm_PRUEBA_3();
             //M.ShowDialog();
         }
+
+        private void pACIENTESEXAMENFToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

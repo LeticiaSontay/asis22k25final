@@ -48,6 +48,9 @@
     <Reference Include="Capa_Controldor_MB">
       <HintPath>..\..\..\DLLS_Bancos\Movimientos Bancarios\Capa_Controldor_MB\bin\Debug\Capa_Controldor_MB.dll</HintPath>
     </Reference>
+    <Reference Include="Capa_vista">
+      <HintPath>..\..\..\DLLS_Bancos\MVC_ExamenFinal\Capa_vista\bin\Debug\Capa_vista.dll</HintPath>
+    </Reference>
     <Reference Include="Capa_Vista_CB">
       <HintPath>..\..\..\DLLS_Bancos\MVC_ConciliacionBancaria\DLL_ConciliacionBancaria\Capa_Vista_CB\bin\Debug\Capa_Vista_CB.dll</HintPath>
     </Reference>
