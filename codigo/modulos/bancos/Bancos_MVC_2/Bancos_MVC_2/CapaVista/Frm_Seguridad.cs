@@ -14,9 +14,10 @@ using Capa_Vista_Cheques;
 using Capa_Vista_MB;
 using Capa_Vista_Mantenimientos;
 using Capa_Vista_TipoDeCambio;
-using Capa_Vista;
 using Capa_Vista_ReportesBancarios;
 using Capa_Vista_Cierre;
+using Capa_Vista;
+using Capa_vista;
 
 
 namespace Capa_Vista_Bancos
@@ -427,7 +428,8 @@ namespace Capa_Vista_Bancos
 
         private void pACIENTESEXAMENFToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Frm_Paciente M = new Frm_Paciente();
+            M.ShowDialog();
         }
     }
 }
